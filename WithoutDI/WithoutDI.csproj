@@ -144,13 +144,13 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Entities\Entities.csproj">
+    <ProjectReference Include="..\Entities\EntitiesWithoutDI.csproj">
       <Project>{A48FC0E0-C8F4-4025-BF98-E19DEF11A7F7}</Project>
-      <Name>Entities</Name>
+      <Name>EntitiesWithoutDI</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Services\Services.csproj">
+    <ProjectReference Include="..\Services\ServicesWithoutDI.csproj">
       <Project>{16CF8BE7-290E-4628-A9B3-F26639A1C0E8}</Project>
-      <Name>Services</Name>
+      <Name>ServicesWithoutDI</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

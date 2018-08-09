@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithoutDI", "WithoutDI\WithoutDI.csproj", "{9F08B9C9-0BD8-4861-BF61-1966DA2C4E88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{A48FC0E0-C8F4-4025-BF98-E19DEF11A7F7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntitiesWithoutDI", "Entities\EntitiesWithoutDI.csproj", "{A48FC0E0-C8F4-4025-BF98-E19DEF11A7F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{16CF8BE7-290E-4628-A9B3-F26639A1C0E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicesWithoutDI", "Services\ServicesWithoutDI.csproj", "{16CF8BE7-290E-4628-A9B3-F26639A1C0E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
